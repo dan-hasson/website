@@ -1,4 +1,11 @@
 .title{
     margin-bottom: 3rem;
-    font-size: 60pt;
+    font-size: 6vw;
+    font-weight: 700;
+    color: #3F5941;
+    font-family: 'Inconsolata', monospace;
 }
+
+/* #868C56
+#D9CC8B
+#3F5941 */

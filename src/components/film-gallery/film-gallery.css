@@ -1,0 +1,28 @@
+#gallery-img:hover{
+    opacity: 0.5;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#gallery-text{
+    font-size: 3rem !important;
+    opacity:0;
+}
+
+#gallery-img:hover p{
+    opacity:1;
+}
+
+.laurel{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+h2{
+    color: #868C56;
+}

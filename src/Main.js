@@ -7,12 +7,16 @@ import Home from "./Home";
 import Film from "./Film";
 import Photo from "./Photo";
 import Bio from "./Bio";
+import TheFinalPush from "./components/film-pages/the-final-push";
+import Monday from "./components/film-pages/monday";
+import HiveSocietyPastel from "./components/film-pages/hive-society-pastel";
 import Title from './components/title/title'
 import Navbar from './components/navbar/navbar'
  
 class Main extends Component {
     render() {
       return (
+          <div className='main'>
         <HashRouter>
           <div>
               <div className='row'>
@@ -27,9 +31,13 @@ class Main extends Component {
                 <Route path="/film" component={Film}/>
                 <Route path="/photo" component={Photo}/>
                 <Route path="/bio" component={Bio}/>
+                <Route path="/the-final-push" component={TheFinalPush}/>
+                <Route path="/monday" component={Monday}/>
+                <Route path="/hive-society-pastel" component={HiveSocietyPastel}/>
           </div>
           </div>
         </HashRouter>
+        </div>
       );
     }
   }
