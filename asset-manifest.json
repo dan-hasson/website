@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.5e0de292.chunk.css",
-    "main.js": "/website/static/js/main.9737f472.chunk.js",
-    "main.js.map": "/website/static/js/main.9737f472.chunk.js.map",
+    "main.css": "/website/static/css/main.fd7afdb2.chunk.css",
+    "main.js": "/website/static/js/main.64160cae.chunk.js",
+    "main.js.map": "/website/static/js/main.64160cae.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.f04fc71f.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.f04fc71f.js.map",
-    "static/js/2.69415c42.chunk.js": "/website/static/js/2.69415c42.chunk.js",
-    "static/js/2.69415c42.chunk.js.map": "/website/static/js/2.69415c42.chunk.js.map",
+    "static/js/2.2eb4e17c.chunk.js": "/website/static/js/2.2eb4e17c.chunk.js",
+    "static/js/2.2eb4e17c.chunk.js.map": "/website/static/js/2.2eb4e17c.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.3e6ec92560369fbc02e02447e47013f2.js": "/website/precache-manifest.3e6ec92560369fbc02e02447e47013f2.js",
+    "precache-manifest.14b522c7d191ad0071232288d8195dda.js": "/website/precache-manifest.14b522c7d191ad0071232288d8195dda.js",
     "service-worker.js": "/website/service-worker.js",
-    "static/css/main.5e0de292.chunk.css.map": "/website/static/css/main.5e0de292.chunk.css.map",
-    "static/js/2.69415c42.chunk.js.LICENSE.txt": "/website/static/js/2.69415c42.chunk.js.LICENSE.txt",
+    "static/css/main.fd7afdb2.chunk.css.map": "/website/static/css/main.fd7afdb2.chunk.css.map",
+    "static/js/2.2eb4e17c.chunk.js.LICENSE.txt": "/website/static/js/2.2eb4e17c.chunk.js.LICENSE.txt",
     "static/media/0. People Arrive Outside Gate A.jpg": "/website/static/media/0. People Arrive Outside Gate A.b385cb6d.jpg",
     "static/media/11. George Ireland.jpg": "/website/static/media/11. George Ireland.dedc9b9e.jpg",
     "static/media/11. Liam Miknas.jpg": "/website/static/media/11. Liam Miknas.2e48a9d5.jpg",
@@ -26,12 +26,13 @@
     "static/media/Conor Joyce 004.jpg": "/website/static/media/Conor Joyce 004.b7b62500.jpg",
     "static/media/EU Protesters Outside Downing Street 003.jpg": "/website/static/media/EU Protesters Outside Downing Street 003.96fcff2f.jpg",
     "static/media/Fish Head On The Beach.jpg": "/website/static/media/Fish Head On The Beach.c621ae90.jpg",
-    "static/media/HIVE SOCIETY TUMBNAIL.png": "/website/static/media/HIVE SOCIETY TUMBNAIL.ec8bf94f.png",
+    "static/media/HS@BE POSTER_1.1.1.jpg": "/website/static/media/HS@BE POSTER_1.1.1.910e12fc.jpg",
     "static/media/Harry Bridges 23rd Birthday 026.jpg": "/website/static/media/Harry Bridges 23rd Birthday 026.adad3076.jpg",
     "static/media/Harry Bridges _ Sam Gledhill 001.jpg": "/website/static/media/Harry Bridges _ Sam Gledhill 001.7faa91bc.jpg",
     "static/media/Hive Society At Brixton Jamm 122.jpg": "/website/static/media/Hive Society At Brixton Jamm 122.f04e489b.jpg",
     "static/media/Hive Society, Jaspers House 016.jpg": "/website/static/media/Hive Society, Jaspers House 016.6f5e91c5.jpg",
     "static/media/Homeless On The Strand 004.jpg": "/website/static/media/Homeless On The Strand 004.55f298df.jpg",
+    "static/media/MONDAY POSTER 001.jpg": "/website/static/media/MONDAY POSTER 001.5f911bf1.jpg",
     "static/media/MONDAY Thumbnail.jpg": "/website/static/media/MONDAY Thumbnail.6027ebde.jpg",
     "static/media/Man Watching Beach Sunset 005.jpg": "/website/static/media/Man Watching Beach Sunset 005.d17a32cf.jpg",
     "static/media/Midlight, The Old Market Gig 032-2.jpg": "/website/static/media/Midlight, The Old Market Gig 032-2.c80b94f1.jpg",
@@ -45,12 +46,13 @@
     "static/media/Stanmer Park Trip 042.jpg": "/website/static/media/Stanmer Park Trip 042.405f6ff4.jpg",
     "static/media/THE FINAL PUSH COVER (COMPRESSED).png": "/website/static/media/THE FINAL PUSH COVER (COMPRESSED).d1ce88ea.png",
     "static/media/Tabi Moloi, Tom O_Brien, Jasper Harrison _ Rish Saluja 004.jpg": "/website/static/media/Tabi Moloi, Tom O_Brien, Jasper Harrison _ Rish Saluja 004.45b4ece4.jpg",
-    "static/media/WAYMO_ Wrap Party 015.jpg": "/website/static/media/WAYMO_ Wrap Party 015.b81d3afb.jpg"
+    "static/media/WAYMO_ Wrap Party 015.jpg": "/website/static/media/WAYMO_ Wrap Party 015.b81d3afb.jpg",
+    "static/media/biopic.jpg": "/website/static/media/biopic.b8ca8e5b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f04fc71f.js",
-    "static/js/2.69415c42.chunk.js",
-    "static/css/main.5e0de292.chunk.css",
-    "static/js/main.9737f472.chunk.js"
+    "static/js/2.2eb4e17c.chunk.js",
+    "static/css/main.fd7afdb2.chunk.css",
+    "static/js/main.64160cae.chunk.js"
   ]
 }
