@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.fd7afdb2.chunk.css",
-    "main.js": "/website/static/js/main.64160cae.chunk.js",
-    "main.js.map": "/website/static/js/main.64160cae.chunk.js.map",
+    "main.css": "/website/static/css/main.2dd58386.chunk.css",
+    "main.js": "/website/static/js/main.d92d6486.chunk.js",
+    "main.js.map": "/website/static/js/main.d92d6486.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.f04fc71f.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.f04fc71f.js.map",
-    "static/js/2.2eb4e17c.chunk.js": "/website/static/js/2.2eb4e17c.chunk.js",
-    "static/js/2.2eb4e17c.chunk.js.map": "/website/static/js/2.2eb4e17c.chunk.js.map",
+    "static/js/2.8ee6a24a.chunk.js": "/website/static/js/2.8ee6a24a.chunk.js",
+    "static/js/2.8ee6a24a.chunk.js.map": "/website/static/js/2.8ee6a24a.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.14b522c7d191ad0071232288d8195dda.js": "/website/precache-manifest.14b522c7d191ad0071232288d8195dda.js",
+    "precache-manifest.07ac46e7483999f7e73e885343fb8ca2.js": "/website/precache-manifest.07ac46e7483999f7e73e885343fb8ca2.js",
     "service-worker.js": "/website/service-worker.js",
-    "static/css/main.fd7afdb2.chunk.css.map": "/website/static/css/main.fd7afdb2.chunk.css.map",
-    "static/js/2.2eb4e17c.chunk.js.LICENSE.txt": "/website/static/js/2.2eb4e17c.chunk.js.LICENSE.txt",
+    "static/css/main.2dd58386.chunk.css.map": "/website/static/css/main.2dd58386.chunk.css.map",
+    "static/js/2.8ee6a24a.chunk.js.LICENSE.txt": "/website/static/js/2.8ee6a24a.chunk.js.LICENSE.txt",
     "static/media/0. People Arrive Outside Gate A.jpg": "/website/static/media/0. People Arrive Outside Gate A.b385cb6d.jpg",
     "static/media/11. George Ireland.jpg": "/website/static/media/11. George Ireland.dedc9b9e.jpg",
     "static/media/11. Liam Miknas.jpg": "/website/static/media/11. Liam Miknas.2e48a9d5.jpg",
@@ -33,7 +33,6 @@
     "static/media/Hive Society, Jaspers House 016.jpg": "/website/static/media/Hive Society, Jaspers House 016.6f5e91c5.jpg",
     "static/media/Homeless On The Strand 004.jpg": "/website/static/media/Homeless On The Strand 004.55f298df.jpg",
     "static/media/MONDAY POSTER 001.jpg": "/website/static/media/MONDAY POSTER 001.5f911bf1.jpg",
-    "static/media/MONDAY Thumbnail.jpg": "/website/static/media/MONDAY Thumbnail.6027ebde.jpg",
     "static/media/Man Watching Beach Sunset 005.jpg": "/website/static/media/Man Watching Beach Sunset 005.d17a32cf.jpg",
     "static/media/Midlight, The Old Market Gig 032-2.jpg": "/website/static/media/Midlight, The Old Market Gig 032-2.c80b94f1.jpg",
     "static/media/Mum _ Dad 003.jpg": "/website/static/media/Mum _ Dad 003.b79a9133.jpg",
@@ -51,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f04fc71f.js",
-    "static/js/2.2eb4e17c.chunk.js",
-    "static/css/main.fd7afdb2.chunk.css",
-    "static/js/main.64160cae.chunk.js"
+    "static/js/2.8ee6a24a.chunk.js",
+    "static/css/main.2dd58386.chunk.css",
+    "static/js/main.d92d6486.chunk.js"
   ]
 }
