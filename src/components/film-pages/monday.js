@@ -8,7 +8,7 @@ class Monday extends Component {
           <div className='row'>
               <div className='offset-2 col-4 text-center'>
               <div className='img-wrapper'>
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/RZhxm58V33E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title='monday-yt' width="100%" height="315" src="https://www.youtube.com/embed/RZhxm58V33E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 
               </div>

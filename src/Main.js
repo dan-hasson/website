@@ -3,7 +3,7 @@ import {
   Route,
   HashRouter
 } from "react-router-dom";
-import Home from "./Home";
+// import Home from "./Home";
 import Film from "./Film";
 import Photo from "./Photo";
 import Bio from "./Bio";
@@ -27,10 +27,10 @@ class Main extends Component {
             
           <Title />
           <div className="content">
-                <Route exact path="/" component={Home}/>
+                <Route exact path="/" component={Film}/>
                 <Route path="/film" component={Film}/>
                 <Route path="/photo" component={Photo}/>
-                <Route path="/bio" component={Bio}/>
+                <Route path="/contact" component={Bio}/>
                 <Route path="/the-final-push" component={TheFinalPush}/>
                 <Route path="/monday" component={Monday}/>
                 <Route path="/hive-society-pastel" component={HiveSocietyPastel}/>

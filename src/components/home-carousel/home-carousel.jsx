@@ -41,7 +41,7 @@ class HomeCarousel extends Component {
 
             <Carousel.Item>
             <div className='img-wrapper' id="gallery-img">
-            <a><NavLink to="/monday">
+            <NavLink to="/monday">
                 <img
                 className="d-block w-100"
                 src={require("../../assets/photos/MONDAY Thumbnail.jpg")}
@@ -49,7 +49,6 @@ class HomeCarousel extends Component {
                 />
                 <p className='centered' id="gallery-text"></p>
                 </NavLink>
-            </a>
                 </div>
                 <Carousel.Caption>
                 {/* <h3>MONDAY</h3> */}

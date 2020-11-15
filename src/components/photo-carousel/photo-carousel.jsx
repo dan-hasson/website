@@ -7,7 +7,7 @@ class PhotoCarousel extends Component {
     return (
         <div className='carousel-wrapper'>
         <div className='row'>
-        <div className='offset-3 col-6'>
+        <div className='offset-lg-3 col-lg-6 col-md-12 col-sm-12'>
             <Carousel>
             <Carousel.Item>
             <div className='img-wrapper'>
@@ -79,7 +79,7 @@ class PhotoCarousel extends Component {
             <div className='img-wrapper'>
             <img
                 className="d-block w-100"
-                src={require("../../assets/photos/BHAFC V West Ham 005.jpg")}
+                src={require("../../assets/photos/Extinction Rebellion On Victoria Street 008.jpg")}
                 alt="Third slide"
                 />
             </div>
@@ -305,7 +305,7 @@ class PhotoCarousel extends Component {
             <div className='img-wrapper'>
             <img
                 className="d-block w-100"
-                src={require("../../assets/photos/Mum _ Dad 003.jpg")}
+                src={require("../../assets/photos/Extinction Rebellion, Xmas March 038.jpg")}
                 alt="Third slide"
                 />
             </div>
@@ -347,7 +347,7 @@ class PhotoCarousel extends Component {
             <div className='img-wrapper'>
             <img
                 className="d-block w-100"
-                src={require("../../assets/photos/St James Park 012.jpg")}
+                src={require("../../assets/photos/Sunset From Waterloo Bridge 002.jpg")}
                 alt="Third slide"
                 />
             </div>
@@ -399,7 +399,7 @@ class PhotoCarousel extends Component {
                 </Carousel.Caption>
             </Carousel.Item>
 
-            <Carousel.Item>
+            {/* <Carousel.Item>
             <div className='img-wrapper'>
             <img
                 className="d-block w-100"
@@ -408,10 +408,8 @@ class PhotoCarousel extends Component {
                 />
             </div>
                 <Carousel.Caption>
-                {/* <h3 className='photo'>WAYMO_ Wrap Party</h3> */}
-                {/* <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p> */}
                 </Carousel.Caption>
-            </Carousel.Item>
+            </Carousel.Item> */}
 
             </Carousel>
 

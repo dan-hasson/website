@@ -14,20 +14,17 @@ class Navbar extends Component {
             </button>
             <div class="collapse navbar-collapse" id="navbarTogglerMain">
                 <ul class="navbar-nav mr-auto ml-auto mt-2 mt-lg-0">
-                <li class="nav-item active">
+                {/* <li class="nav-item active">
                     <a class="nav-link"><NavLink to="/">Home</NavLink></a>
+                </li> */}
+                <li class="nav-item">
+                    <div class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show"><NavLink to="/">Film</NavLink></div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link"><NavLink to="/film">Film</NavLink></a>
+                    <div class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show"><NavLink to="/photo">Photo</NavLink></div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link"><NavLink to="/photo">Photo</NavLink></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link"><NavLink to="/Bio">Bio</NavLink></a>
-                </li>
-                <li class="nav-item">
-                    <a href="mailto:danchasson@hotmail.com" class="nav-link">Contact</a>
+                    <div class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show"><NavLink to="/contact">Contact</NavLink></div>
                 </li>
                 </ul>
             </div>

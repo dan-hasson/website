@@ -7,11 +7,11 @@ import './film-gallery.css'
 class FilmGallery extends Component {
   render() {
     return (
-    <div class="container">
+    <div class="container film-gallery">
     <div class="row">
         <div class="col-sm">
         <div className='img-wrapper' id="gallery-img">
-            <a><NavLink to="/the-final-push">
+            <div><NavLink to="/the-final-push">
                 <img
                 className="d-block w-100"
                 src={require("../../assets/photos/THE FINAL PUSH COVER (COMPRESSED).png")}
@@ -19,33 +19,33 @@ class FilmGallery extends Component {
                 />
                 <p className='centered' id="gallery-text"></p>
                 </NavLink>
-            </a>
+            </div>
                 </div>
         </div>
         <div class="col-sm">
         <div className='img-wrapper' id="gallery-img">
-            <a><NavLink to="/monday">
+            <div><NavLink to="/monday">
                 <img
                 className="d-block w-100"
-                src={require("../../assets/photos/MONDAY Thumbnail.jpg")}
+                src={require("../../assets/photos/MONDAY POSTER 001.jpg")}
                 alt="MONDAY"
                 />
                 <p className='centered' id="gallery-text"></p>
                 </NavLink>
-            </a>
+            </div>
                 </div>
         </div>
         <div class="col-sm">
         <div className='img-wrapper' id="gallery-img">
-            <a><NavLink to="/hive-society-pastel">
+            <div><NavLink to="/hive-society-pastel">
                 <img
                 className="d-block w-100"
-                src={require("../../assets/photos/HIVE SOCIETY TUMBNAIL.png")}
+                src={require("../../assets/photos/HS@BE POSTER_1.1.1.jpg")}
                 alt="HIVE SOCIETY"
                 />
                 <p className='centered' id="gallery-text"></p>
                 </NavLink>
-            </a>
+            </div>
                 </div>
         </div>
     </div>
